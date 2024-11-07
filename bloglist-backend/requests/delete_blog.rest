@@ -1,0 +1,11 @@
+DELETE http://localhost:3001/api/blogs/672217e217690a533acf5f1c
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImppbSIsImlkIjoiNjcyMTA1YzRjZjIwNWJjYjZiNjAwYmFjIiwiaWF0IjoxNzMwMjc4NDY0fQ.psfgk5LI6w8Dohiwu2Wj3Rx2qKT8zHdFBdATSGCw29w
+
+{
+    "author": "Elon Musk",
+    "title": "Dealing with bad leaders",
+    "url": "dealing.fi/elon",
+    "likes": 8,
+    "userId": "672105c4cf205bcb6b600bac"
+}
